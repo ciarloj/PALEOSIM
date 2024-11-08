@@ -13,7 +13,7 @@ CORDIS page: https://cordis.europa.eu/project/id/101062427
 
 ## WP2: Modern-day Climate Assessment
 
-- Ciarlo`, J.M., et al. (submitted). **Insights into Climate Variability of the Meteorological Records from a Background Monitoring Station: The Giordan Lighthouse, Gozo.** Environmental Research: Climate.
+- Ciarlo`, J.M., et al. (in-preparation). **Insights into Climate Variability of the Meteorological Records from a Background Monitoring Station: The Giordan Lighthouse, Gozo.**
 
 
 ## WP3: Paleoclimatic Changes to the Central Mediterranean
