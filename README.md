@@ -1,6 +1,6 @@
 # PALEOSIM
 
-Repository for scripts, images, data associated with the Marie Sklodowska-Curie Actions project, PALEOSIM (Grant Agreement: 101062427). 
+Repository for scripts, images, data, and submodules associated with the Marie Sklodowska-Curie Actions project, PALEOSIM (Grant Agreement: 101062427). 
 
 Project page: https://www.um.edu.mt/projects/paleosim/
 
