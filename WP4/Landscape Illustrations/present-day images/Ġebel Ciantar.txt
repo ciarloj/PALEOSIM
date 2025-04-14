@@ -1,0 +1,9 @@
+Photo Location: 35.844444, 14.399417
+https://maps.app.goo.gl/dT2CsiwZyGUXkRmN6
+
+Photo Elevation: 234 m
+Cliff Height: ~220 m
+
+
+Horizon Formula
+d (km) = 3.58 x sqrt(h [m]) = 54 km => 68 km in LGM

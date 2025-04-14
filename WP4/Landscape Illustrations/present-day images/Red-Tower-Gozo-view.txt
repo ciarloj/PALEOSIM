@@ -1,0 +1,7 @@
+Photo Location: 35.974889, 14.342472
+https://maps.app.goo.gl/wPb5VrGK7xcwgj726
+
+Photo Elevation: 96 m
+
+Horizon Formula
+d (km) = 3.58 x sqrt(h [m]) = 35 km
