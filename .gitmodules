@@ -1,3 +1,6 @@
 [submodule "WP2/Giordan-Lighthouse-Climate-Assessment"]
 	path = WP2/Giordan-Lighthouse-Climate-Assessment
 	url = https://github.com/ciarloj/Giordan-Lighthouse-Climate-Assessment
+[submodule "WP1/Eco-Climate-Index"]
+	path = WP1/Eco-Climate-Index
+	url = https://github.com/ciarloj/Habitability-Index.git
